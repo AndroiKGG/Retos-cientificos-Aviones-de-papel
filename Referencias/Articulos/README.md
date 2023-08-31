@@ -1,1 +1,1 @@
-* 
+* Ismail, N., Ali, Z., Ishak, I., Noor, R., & Rabilah, R. (2020). Aerodynamic Performances of Paper Planes. Journal of Advanced Research in Fluid Mechanics and Thermal Sciences. https://doi.org/10.37934/arfmts.77.1.124131.
