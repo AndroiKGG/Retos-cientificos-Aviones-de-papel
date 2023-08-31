@@ -1,5 +1,5 @@
-Objetos entregables para calificar: \\
+Objetos entregables para calificar: \
 
-* Presentaciones tipo poster y diapositivas. \\
-* Informes.\\
+* Presentaciones tipo poster y diapositivas. \
+* Informes.\
 * Otros.
